@@ -28,7 +28,7 @@
 $ git clone https://github.com/Maycon-Rodrigues/grade-app.git
 
 # Go into the repository
-$ cd frontend
+$ cd grade-app
 
 # Install dependencies
 $ yarn install
